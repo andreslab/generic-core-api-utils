@@ -1,0 +1,10 @@
+{
+    "match":[
+        "src"
+    ],
+    "ext": "ts",
+    "ignone":[
+        "src/**/*.spec.ts"
+    ],
+    "exec":"ts-node ./src/index.ts"
+}
